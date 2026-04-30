@@ -43,8 +43,8 @@ Protocol sustainability is tied to token value. **25% of protocol revenue** is d
 | Allocation | Percentage | Token Amount | Purpose / Terms |
 | :--- | :--- | :--- | :--- |
 | **Public Presale** | 70% | 13,928,533.5 | Core Community Distribution |
-| **Liquidity Pool** | 20% | 3,979,581.0 | 100% Locked for 24 Months |
-| **Community Reserve** | 10% | 1,989,790.5 | DAO, Staking & Ecosystem [DRAFT] |
+| **Liquidity Pool** | 25% | 4,974,476.25 | 100% Locked for 24 Months |
+| **Community Reserve** | 5% | 1,994,895.25 | DAO, Staking & Ecosystem [DRAFT] |
 
 > [!NOTE]
 > **Liquidity Lock:** Verified on-chain via **Squads (Solana Multi-sig)**.
