@@ -1,13 +1,4 @@
-SURCHI-PROTOCOL/
-├── README.md                 # Main entry point & Quick-start
-├── whitepaper/
-│   ├── 00_summary.md         # Executive Summary
-│   ├── 01_philosophy.md      # The Genesis Philosophy
-│   ├── 02_architecture.md    # Solana & Infrastructure
-│   ├── 03_tech_stack.md      # AI Sentinels & NLI
-│   ├── 04_tokenomics.md      # Economic Model & Burn
-│   └── 05_roadmap.md         # 2026-2027 Strategy
-└── LICENSE                   # MIT/Open-Source License
+
 
 # SURCHI: THE NEURAL SENTINEL PROTOCOL ⚡
 
