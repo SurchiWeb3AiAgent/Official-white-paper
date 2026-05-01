@@ -80,4 +80,15 @@ Surchi operates on a non-inflationary revenue model:
 - [ ] **Cross-Chain Vision:** Monitoring liquidity flows on Ethereum and L2s.
 - [ ] **Surchi DAO:** Handing Sentinel Registry control to $SURCHI holders.
 
+____
+
+
+## 🌐 Connect With Us
+
+Explore the future of finance and join our community:
+
+**[Website](https://surchi.xyz)** [Twitter/X](https://x.com/surchi.com) • [Discord](https://discord.gg/DtFYCzCUk) • [Instagram](https://www.instagram.com/surchicoin?igsh=YXlhY2VkZ2lxam9w)  
+[Facebook](https://facebook.com/surchi) • [YouTube](https://www.youtube.com/@Surchi-web3-Ai)
+[Whatsapp](https://chat.whatsapp.com/Gy843NCfXKhEMpU2rbivNy?mode=gi_t)
+
 
