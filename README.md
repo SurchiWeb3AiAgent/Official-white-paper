@@ -98,6 +98,8 @@ The $SURCHI ecosystem is built on the Solana blockchain with a **Zero-Team-Alloc
 
 ---
 
+![Tokenomics](https://raw.githubusercontent.com/SurchiWeb3AiAgent/Official-white-paper/refs/heads/main/Tokenomics.png)
+
 ## 🏗️ Distribution Breakdown
 
 | Segment | Allocation | Amount ($SURCHI) | Vesting / Terms |
