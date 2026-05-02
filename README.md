@@ -58,9 +58,9 @@ The $SURCHI token is a governance and value-capture mechanism designed for maxim
 
 | Segment | Allocation | Amount | Vesting / Terms |
 | :--- | :--- | :--- | :--- |
-| **Public Presale** | 70% | 13,928,533.5 | Released at TGE |
-| **Liquidity Pool** | 25% | 4,974,476.25 | **100% Locked for 24 Months** via Squads |
-| **Community Reserve** | 5% | 994,895.25 | DAO grants & Staking |
+| **Public Presale** | 65% | 12,933,638 | Released at TGE |
+| **Liquidity Pool** | 30% | 5,969,372 | **100% Locked for 24 Months** via Squads |
+| **Community Reserve** | 5% | 994,895 | DAO grants & Staking |
 
 ## 4.2 The Deflationary Engine (Buyback & Burn)
 Surchi operates on a non-inflationary revenue model:
