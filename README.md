@@ -103,17 +103,11 @@ The $SURCHI ecosystem is built on the Solana blockchain with a **Zero-Team-Alloc
 
 ---
 
-![Tokenomics](https://raw.githubusercontent.com/SurchiWeb3AiAgent/Official-white-paper/refs/heads/main/Tokenomics.png)
-
 ## 🏗️ Distribution Breakdown
 
-| Segment | Allocation | Amount ($SURCHI) | Vesting / Terms |
-| :--- | :--- | :--- | :--- |
-| **Public Presale** | 70% | 13,928,533.5 | **100% Unlocked at TGE** |
-| **Liquidity Pool** | 25% | 4,974,476.25 | **Locked 24 Months (Squads Multisig)** |
-| **Community Reserve**| 5% | 994,895.25 | **DAO, Staking & Grants** |
+![Tokenomics](https://raw.githubusercontent.com/SurchiWeb3AiAgent/Official-white-paper/refs/heads/main/Tokenomics.png)
 
----
+
 
 ## 🔐 Security & Strategic Logic
 
