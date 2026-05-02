@@ -8,7 +8,7 @@
 # SURCHI: THE NEURAL SENTINEL PROTOCOL ⚡
 
 [![Network: Solana](https://img.shields.io/badge/Network-Solana-blueviolet)](https://solana.com)
-[![Whitepaper: v3.0](https://img.shields.io/badge/Whitepaper-v3.0-green)](#)
+[![Whitepaper: v1.0](https://img.shields.io/badge/Whitepaper-v1.0-green)](#)
 [![Cycle: 2026-2027](https://img.shields.io/badge/Cycle-2026--2027-orange)](#)
 
 Surchi is an autonomous AI-driven Web3 intelligence suite deployed on the Solana blockchain. It leverages sub-second telemetry and neural sentiment analysis to bridge the gap between raw data and sovereign execution.
