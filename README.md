@@ -1,4 +1,9 @@
+![Network](https://img.shields.io/badge/Network-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
+![Supply](https://img.shields.io/badge/Total_Supply-19,897,905-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Phase-2026_Foundation-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+---
 
 # SURCHI: THE NEURAL SENTINEL PROTOCOL ⚡
 
