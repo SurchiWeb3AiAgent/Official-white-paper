@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 [![Whitepaper: v1.0](https://img.shields.io/badge/Whitepaper-v1.0-green)](#)
 [![Cycle: 2026-2027](https://img.shields.io/badge/Cycle-2026--2027-orange)](#)
+[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
+
 # SURCHI: THE NEURAL SENTINEL PROTOCOL ⚡
 
 > **Whitepaper v1.0**  
