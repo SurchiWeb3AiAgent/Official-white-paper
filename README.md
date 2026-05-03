@@ -5,8 +5,6 @@
 
 ---
 
-# SURCHI: THE NEURAL SENTINEL PROTOCOL ⚡
-
 [![Network: Solana](https://img.shields.io/badge/Network-Solana-blueviolet)](https://solana.com)
 [![Whitepaper: v1.0](https://img.shields.io/badge/Whitepaper-v1.0-green)](#)
 [![Cycle: 2026-2027](https://img.shields.io/badge/Cycle-2026--2027-orange)](#)
@@ -181,6 +179,8 @@ It powers execution, secures governance participation, enables staking, and capt
 | Public Presale | 65% | 12,933,638 | Released at TGE |
 | Liquidity Pool | 30% | 5,969,372 | Locked for 24 Months |
 | Community Reserve (DAO) | 5% | 994,895 | Treasury, Grants, Staking |
+
+![Tokenomics](https://raw.githubusercontent.com/SurchiWeb3AiAgent/Official-white-paper/refs/heads/main/Surchi%20Tokenomics.jpg)
 
 #### Allocation Philosophy
 
