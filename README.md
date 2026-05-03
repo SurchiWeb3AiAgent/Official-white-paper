@@ -3,8 +3,6 @@
 ![Status](https://img.shields.io/badge/Phase-2026_Foundation-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
----
-
 [![Network: Solana](https://img.shields.io/badge/Network-Solana-blueviolet)](https://solana.com)
 [![Whitepaper: v1.0](https://img.shields.io/badge/Whitepaper-v1.0-green)](#)
 [![Cycle: 2026-2027](https://img.shields.io/badge/Cycle-2026--2027-orange)](#)
