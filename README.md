@@ -174,9 +174,9 @@ It powers execution, secures governance participation, enables staking, and capt
 
 | Segment | Allocation | Amount | Terms |
 |--------|-----------:|-------:|------|
-| Public Presale | 65% | 12,933,638 | Released at TGE |
-| Liquidity Pool | 30% | 5,969,372 | Locked for 24 Months |
-| Community Reserve (DAO) | 5% | 994,895 | Treasury, Grants, Staking |
+| Public Presale | 65% | 12,734,659.2 | Released at TGE |
+| Liquidity Pool | 30% | 5,969,371.5 | Locked for 24 Months |
+| Community Reserve (DAO) | 5% | 1,193,874.3 | Treasury, Grants, Staking |
 
 ![Tokenomics](https://raw.githubusercontent.com/SurchiWeb3AiAgent/Official-white-paper/refs/heads/main/SURCHI%20Tokenomics.png)
 
