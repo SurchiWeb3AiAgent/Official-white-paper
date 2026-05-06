@@ -178,7 +178,7 @@ It powers execution, secures governance participation, enables staking, and capt
 | Liquidity Pool | 30% | 5,969,372 | Locked for 24 Months |
 | Community Reserve (DAO) | 5% | 994,895 | Treasury, Grants, Staking |
 
-![Tokenomics](https://raw.githubusercontent.com/SurchiWeb3AiAgent/Official-white-paper/refs/heads/main/Surchi%20Tokenomics.jpg)
+![Tokenomics](https://raw.githubusercontent.com/SurchiWeb3AiAgent/Official-white-paper/refs/heads/main/SURCHI%20Tokenomics.png)
 
 #### Allocation Philosophy
 
